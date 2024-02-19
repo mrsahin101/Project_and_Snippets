@@ -1,0 +1,16 @@
+main.c:100:6:readRegister	1
+main.c:108:6:writeRegister	2
+main.c:123:6:enableALLAxis	1
+main.c:128:6:LIS3DSH_Init	5
+main.c:157:6:readTemperature	1
+main.c:165:6:readX_Axis	1
+main.c:178:6:readY_Axis	1
+main.c:191:6:readZ_Axis	1
+main.c:204:6:setCTRL5	1
+main.c:209:19:twoComplToInt16	2
+main.c:225:6:calculate	1
+main.c:242:5:main	2
+main.c:304:6:SystemClock_Config	3
+main.c:350:13:MX_SPI1_Init	2
+main.c:388:13:MX_GPIO_Init	1
+main.c:432:6:Error_Handler	1

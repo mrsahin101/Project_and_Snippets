@@ -7,7 +7,6 @@ void stateB(void);
 void stateC(void);
 void initializeSM(void);
 void wait(void);
-void wait(void);
 
 /* Define an enumarated type for state */
 typedef enum
